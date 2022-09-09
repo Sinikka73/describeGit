@@ -12,11 +12,17 @@
 
 ![commit](gitcommit.png)
 
-4. **git diff**
+4. **git diff** - *разница между текущим состоянием и зафиксированным*
 
-5. **git log**
+![diff](gidiff.png)
 
-6. **git checkout (название ветки и комита)**
+5. **git log** - *отслеживание файлов*
+
+![log](gitlog.png)
+
+6. **git checkout (название ветки и комита)** - *переход между коммитами или ветками*
+
+![checkout](gitcheck.png)
 
 ## Работа с ветками
 
